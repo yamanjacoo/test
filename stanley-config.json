@@ -48,7 +48,7 @@
    "maxTagsInCard":3,
    "pricing":{
       "fixedPrice":{
-         "enabled":false,
+         "enabled":true,
          "amount":99.99
       },
       "reduction":{
@@ -61,7 +61,7 @@
       }
    },
    "quantity":{
-      "forceSingleStock":false,
+      "forceSingleStock":true,
       "singleStockMessage":"Limited Edition - Only 1 Available",
       "stockRange":{
          "min":50,
@@ -72,7 +72,7 @@
       "clientId":"Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
       "receiverEmail":"ronjaa.curtis@outlook.com",
       "currency":"USD",
-      "showPayPalButton":true
+      "showPayPalButton":false
    },
    "payNow":{
       "enabled":false,
