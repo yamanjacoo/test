@@ -81,6 +81,8 @@
    },
    "paypal":{
       "clientId":"Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
+      "createorderURL":"https://pypal-unclaimed-payments.onrender.com/create_order"
+       "captureorderURL":"https://pypal-unclaimed-payments.onrender.com/capture_order"
       "receiverEmail":"ronjaa.curtis@outlook.com",
       "currency":"USD",
       "showPayPalButton":true
