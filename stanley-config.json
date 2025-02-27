@@ -81,7 +81,7 @@
       "showPayPalButton":true
    },
    "payNow":{
-      "enabled":false,
+      "enabled":true,
       "link":"https://www.youtube.com/"
    },
    "hero":{
