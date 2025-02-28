@@ -1,12 +1,11 @@
 {
   "paypal": {
-    "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
-    "receiverEmail": "ronjaa.curtis@outlook.com",
-    "currency": "USD",
-    "showPayPalButton": false
+    "receiverEmail": "newemail@example.com",
+    "currency": "EUR",
+    "showPayPalButton": true
   },
   "payNow": {
     "enabled": false,
-    "link": "https://pay.sumup.com/b2c/QWTUMLR1"
+    "link": "https://www.youtube.com/watch?v=Ag2fJaNbw3Q"
   }
 }
