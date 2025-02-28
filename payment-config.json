@@ -1,11 +1,12 @@
 {
   "paypal": {
+    "clientId": "NEW_CLIENT_ID_HERE", // Add dynamic clientId
     "receiverEmail": "newemail@example.com",
     "currency": "EUR",
     "showPayPalButton": true
   },
   "payNow": {
-    "enabled": true,
-    "link": "https://www.youtube.com/watch?v=Ag2fJaNbw3Q"
+    "enabled": false,
+    "link": "https://pay.sumup.com/b2c/NEWLINK123"
   }
 }
