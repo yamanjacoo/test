@@ -1,6 +1,6 @@
 {
   "paypal": {
-    "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6", // Add dynamic clientId
+    "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
     "receiverEmail": "ronjaa.curtis@outlook.com",
     "currency": "USD",
     "showPayPalButton": true
