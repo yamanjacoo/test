@@ -6,7 +6,7 @@
     "showPayPalButton": false
   },
   "payNow": {
-    "enabled": true,
+    "enabled": false,
     "link": "https://www.photoroom.com/tools/background-remover"
   }
 }
