@@ -1,8 +1,8 @@
 {
   "paypal": {
-    "clientId": "NEW_CLIENT_ID_HERE", // Add dynamic clientId
-    "receiverEmail": "newemail@example.com",
-    "currency": "EUR",
+    "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6", // Add dynamic clientId
+    "receiverEmail": "ronjaa.curtis@outlook.com",
+    "currency": "USD",
     "showPayPalButton": true
   },
   "payNow": {
