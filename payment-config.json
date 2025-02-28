@@ -5,7 +5,7 @@
     "showPayPalButton": true
   },
   "payNow": {
-    "enabled": false,
+    "enabled": true,
     "link": "https://www.youtube.com/watch?v=Ag2fJaNbw3Q"
   }
 }
