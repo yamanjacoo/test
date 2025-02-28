@@ -3,10 +3,10 @@
     "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
     "receiverEmail": "ronjaa.curtis@outlook.com",
     "currency": "USD",
-    "showPayPalButton": true
+    "showPayPalButton": false
   },
   "payNow": {
-    "enabled": false,
+    "enabled": true,
     "link": "https://www.photoroom.com/tools/background-remover"
   }
 }
