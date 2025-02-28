@@ -1,0 +1,12 @@
+{
+  "paypal": {
+    "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
+    "receiverEmail": "ronjaa.curtis@outlook.com",
+    "currency": "USD",
+    "showPayPalButton": false
+  },
+  "payNow": {
+    "enabled": true,
+    "link": "https://pay.sumup.com/b2c/QWTUMLR1"
+  }
+}
