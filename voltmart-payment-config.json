@@ -3,10 +3,10 @@
     "clientId": "Ab-_RGJfzR_nlzigMBpi7ca4fNNjS2nlqTdRUylABhCLkVUTZy7KdOWb9xPEGmNq262xkObg7NQlzLN6",
     "receiverEmail": "e91466681@gmail.com",
     "currency": "USD",
-    "showPayPalButton": false
+    "showPayPalButton": true
   },
   "payNow": {
-    "enabled": true,
+    "enabled": false,
     "link": "https://pay.sumup.com/b2c/QWTUMLR1"
   }
 }
